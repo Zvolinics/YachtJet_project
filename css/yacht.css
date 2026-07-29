@@ -1,0 +1,45 @@
+.yatch-list-item {
+  border-radius: 24px;
+  background-color: #ffffff;
+}
+
+.yatch-list-image {
+  border-radius: 24px;
+}
+
+.yacht-list-title {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.2;
+  letter-spacing: -0.04em;
+  text-transform: uppercase;
+  color: #1b414b;
+}
+.yacht-list-title-type {
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 1.18;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #04030666;
+}
+
+.options-item {
+  line-height: 1.18;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #04030666;
+}
+
+.options-item-value {
+  color: #040306;
+  text-transform: none;
+}
+
+.yacht-link {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.1;
+  border: 1px solid rgba(251, 251, 251, 0.35);
+  border-radius: 15px;
+}

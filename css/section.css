@@ -1,0 +1,11 @@
+.section {
+}
+
+.section-title {
+  font-weight: 500;
+  font-size: 48px;
+}
+
+#about-us .section-title {
+  color: #1b414b;
+}
