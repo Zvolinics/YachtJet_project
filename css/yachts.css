@@ -1,9 +1,9 @@
-.yatch-list-item {
+.yacht-list-item {
   border-radius: 24px;
-  background-color: #ffffff;
+  background-color: #fbfbfb;
 }
 
-.yatch-list-image {
+.yacht-list-image {
   border-radius: 24px;
 }
 
@@ -15,12 +15,12 @@
   text-transform: uppercase;
   color: #1b414b;
 }
+
 .yacht-list-title-type {
   font-weight: 400;
   font-size: 13px;
   line-height: 1.18;
   letter-spacing: 0.03em;
-  text-transform: uppercase;
   color: #04030666;
 }
 
@@ -31,15 +31,20 @@
   color: #04030666;
 }
 
-.options-item-value {
-  color: #040306;
+.option-item-value {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.18;
+  letter-spacing: 0.03em;
   text-transform: none;
+  color: #040306;
 }
 
 .yacht-link {
   font-weight: 500;
   font-size: 18px;
   line-height: 1.1;
+
   border: 1px solid rgba(251, 251, 251, 0.35);
   border-radius: 15px;
 }

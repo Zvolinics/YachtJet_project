@@ -4,14 +4,14 @@ body {
   font-size: 14px;
   line-height: 1;
   letter-spacing: -0.02em;
+  color: #fbfbfb;
 
   background-color: #0e1823;
-  color: #fbfbfb;
 }
 
 img {
   display: block;
-  max-width: 100%;
+  min-width: 100%;
   height: auto;
 }
 

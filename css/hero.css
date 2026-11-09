@@ -1,7 +1,6 @@
 .hero-title {
   font-weight: 500;
   font-size: 80px;
-  line-height: 1;
   text-align: center;
 }
 
@@ -17,6 +16,6 @@
   font-weight: 500;
   font-size: 18px;
   line-height: 1.1;
-  color: inherit;
-  background: #1b414b;
+
+  background-color: #1b414b;
 }
