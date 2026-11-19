@@ -1,0 +1,20 @@
+.header {
+  position: absolute;
+  top: 32px;
+  left: 50%;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  width: 1240px;
+  height: 48px;
+  margin: 0 auto;
+  padding: 0 30px;
+
+  transform: translate(-50%);
+
+  border-radius: 8px;
+
+  background-color: #fbfbfb;
+}
